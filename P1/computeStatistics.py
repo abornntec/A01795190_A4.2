@@ -36,7 +36,7 @@ def calcular_mode(numeros_mode, total_de_numeros_mode):
     ]
     if len(mode) == total_de_numeros_mode:
         return "N/A"
-    return mode
+    return mode[0]
 
 
 def calcular_varianza(numeros_varianza, mean, total_numeros_varianza):
@@ -64,14 +64,27 @@ for number in numbers:
         number = float(number)
         numeros.append(number)
     except ValueError:
-        print(f"El valor {number} no es un número y se ignorará.")
+        splited_number = []
+        if number.find(",") > 0:
+            splited_number = number.split(",")
+        if number.find(";") > 0:
+            splited_number = number.split(";")
+        if len(splited_number) > 0:
+            try:
+                for number_split in splited_number:
+                    number = float(number_split)
+                    numeros.append(number)
+            except ValueError:
+                print(f"El valor {number} no es un número y se ignorará.")
+        else:
+            print(f"El valor {number} no es un número y se ignorará.")
 
 # Calcular todas las métricas
 TOTALNUMEROS = len(numeros)
 suma_de_numeros_final = sum(numeros)
 mean_final = suma_de_numeros_final / TOTALNUMEROS
-median_final = calcular_median(numeros, TOTALNUMEROS)
 mode_final = calcular_mode(numeros, TOTALNUMEROS)
+median_final = calcular_median(numeros, TOTALNUMEROS)
 varianza_final = calcular_varianza(numeros, mean_final, TOTALNUMEROS)
 std_final = calcular_std(numeros, mean_final, TOTALNUMEROS)
 
