@@ -55,8 +55,10 @@ def sumar_uno_binario(binario_a_sumar):
 
 def convertir_a_binario(numero):
     """Convertir numero a binario"""
-    if numero >= 0:
+    if numero > 0:
         return convertir_positivo_a_binario(numero)
+    if numero == 0:
+        return 0
     return convertir_negativo_a_binario(numero)
 
 
@@ -91,8 +93,10 @@ def convertir_a_hex(valor):
 
 def convertir_a_hexadecimal(numero):
     """Convertir numero a hexadecimal"""
-    if numero >= 0:
+    if numero > 0:
         return convertir_positivo_a_hexadecimal(numero)
+    if numero == 0:
+        return 0
     return convertir_negativo_a_hexadecimal(numero)
 
 

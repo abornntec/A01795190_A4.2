@@ -101,7 +101,7 @@ kodak 1
 significance 1
 coastal 1
 Total de palabras 100
-Tiempo de ejecucion en segundos: 0.011000633239746094
+Tiempo de ejecucion en segundos: 0.019831180572509766
 
 Resultados del archivo TC2.txt
 conduct 1
@@ -249,7 +249,7 @@ icons 1
 excessive 1
 jon 1
 Total de palabras 184
-Tiempo de ejecucion en segundos: 0.0270233154296875
+Tiempo de ejecucion en segundos: 0.01616072654724121
 
 Resultados del archivo TC3.txt
 neighbors 1
@@ -740,7 +740,7 @@ src 1
 gradually 1
 placing 1
 Total de palabras 500
-Tiempo de ejecucion en segundos: 0.05800366401672363
+Tiempo de ejecucion en segundos: 0.0652456283569336
 
 Resultados del archivo TC4.txt
 disciplinary 1
@@ -1693,7 +1693,7 @@ wishlist 1
 expired 1
 circular 1
 Total de palabras 1000
-Tiempo de ejecucion en segundos: 0.12755537033081055
+Tiempo de ejecucion en segundos: 0.11879181861877441
 
 Resultados del archivo TC5.txt
 loaded 2
@@ -5447,4 +5447,4 @@ realty 1
 vaccine 1
 relocation 1
 Total de palabras 5000
-Tiempo de ejecucion en segundos: 0.34621429443359375
+Tiempo de ejecucion en segundos: 0.38498830795288086

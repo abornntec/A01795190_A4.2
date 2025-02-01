@@ -1,71 +1,71 @@
 
 
-Resultados del archivo ./TC1.txt
-Las estadisticas calculadas para el archivo:./TC1.txt son las siguientes
+Resultados del archivo TC1.txt
+Las estadisticas calculadas para el archivo:TC1.txt son las siguientes
 Total de numeros: 400
 Mean: 242.32
 Median: 239.5
 Mode: 393.0
 SD: 145.25810683056554
 Variance: 21152.799598997488
-Tiempo de ejecucion en segundos: 0.006215572357177734
+Tiempo de ejecucion en segundos: 0.0015158653259277344
 
-Resultados del archivo ./TC2.txt
-Las estadisticas calculadas para el archivo:./TC2.txt son las siguientes
+Resultados del archivo TC2.txt
+Las estadisticas calculadas para el archivo:TC2.txt son las siguientes
 Total de numeros: 1977
 Mean: 250.7840161861406
 Median: 247.0
 Mode: 230.0
 SD: 144.17131868884059
 Variance: 20795.888043983523
-Tiempo de ejecucion en segundos: 0.0030012130737304688
+Tiempo de ejecucion en segundos: 0.017219066619873047
 
-Resultados del archivo ./TC3.txt
-Las estadisticas calculadas para el archivo:./TC3.txt son las siguientes
+Resultados del archivo TC3.txt
+Las estadisticas calculadas para el archivo:TC3.txt son las siguientes
 Total de numeros: 12624
 Mean: 249.77621989860583
 Median: 249.0
 Mode: 94.0
 SD: 145.31784980917976
 Variance: 21118.950393821902
-Tiempo de ejecucion en segundos: 0.01250910758972168
+Tiempo de ejecucion en segundos: 0.018001556396484375
 
-Resultados del archivo ./TC4.txt
-Las estadisticas calculadas para el archivo:./TC4.txt son las siguientes
+Resultados del archivo TC4.txt
+Las estadisticas calculadas para el archivo:TC4.txt son las siguientes
 Total de numeros: 12624
 Mean: 149.00267347908746
 Median: 147.75
 Mode: 123.75
 SD: 130.41441961308877
 Variance: 17009.268218511388
-Tiempo de ejecucion en segundos: 0.011507034301757812
+Tiempo de ejecucion en segundos: 0.011295795440673828
 
-Resultados del archivo ./TC5.txt
-Las estadisticas calculadas para el archivo:./TC5.txt son las siguientes
+Resultados del archivo TC5.txt
+Las estadisticas calculadas para el archivo:TC5.txt son las siguientes
 Total de numeros: 311
 Mean: 238.81672025723472
 Median: 240.0
 Mode: 11.0
 SD: 146.43160177011086
 Variance: 21511.382429208592
-Tiempo de ejecucion en segundos: 0.004522562026977539
+Tiempo de ejecucion en segundos: 0.004575967788696289
 
-Resultados del archivo ./TC6.txt
-Las estadisticas calculadas para el archivo:./TC6.txt son las siguientes
+Resultados del archivo TC6.txt
+Las estadisticas calculadas para el archivo:TC6.txt son las siguientes
 Total de numeros: 3000
 Mean: 1.8790659927977473e+20
 Median: 1.88008049965543e+20
 Mode: N/A
 SD: 1.0738205017381e+20
 Variance: 1.1534749616069336e+40
-Tiempo de ejecucion en segundos: 0.0039997100830078125
+Tiempo de ejecucion en segundos: 0.0
 
-Resultados del archivo ./TC7.txt
-Las estadisticas calculadas para el archivo:./TC7.txt son las siguientes
+Resultados del archivo TC7.txt
+Las estadisticas calculadas para el archivo:TC7.txt son las siguientes
 Total de numeros: 12767
 Mean: 2.474673954997149e+20
 Median: 2.4664097307429e+20
 Mode: N/A
 SD: 1.4460564700984705e+20
 Variance: 2.0912431153806326e+40
-Tiempo de ejecucion en segundos: 0.01612544059753418
+Tiempo de ejecucion en segundos: 0.01701045036315918

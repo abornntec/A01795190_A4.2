@@ -201,7 +201,7 @@ Resultados del archivo TC1.txt
 3176815 en binario 1100000111100101101111 en hexa 30796F
 858440 en binario 11010001100101001000 en hexa D1948
 2250854 en binario 1000100101100001100110 en hexa 225866
-Tiempo de ejecucion en segundos: 0.02353072166442871
+Tiempo de ejecucion en segundos: 0.03021383285522461
 
 Resultados del archivo TC2.txt
 7116776 en binario 11011001001011111101000 en hexa 6C97E8
@@ -404,7 +404,7 @@ Resultados del archivo TC2.txt
 4238091 en binario 10000001010101100001011 en hexa 40AB0B
 7093069 en binario 11011000011101101001101 en hexa 6C3B4D
 39 en binario 100111 en hexa 27
-Tiempo de ejecucion en segundos: 0.03200221061706543
+Tiempo de ejecucion en segundos: 0.03087306022644043
 
 Resultados del archivo TC3.txt
 -39 en binario 1111011001 en hexa FFFFFFFFD9
@@ -415,7 +415,7 @@ Resultados del archivo TC3.txt
 49 en binario 110001 en hexa 31
 5 en binario 101 en hexa 5
 39 en binario 100111 en hexa 27
-0 en binario  en hexa 
+0 en binario 0 en hexa 0
 33 en binario 100001 en hexa 21
 12 en binario 1100 en hexa C
 -6 en binario 1111111010 en hexa FFFFFFFFFA
@@ -430,7 +430,7 @@ Resultados del archivo TC3.txt
 -28 en binario 1111100100 en hexa FFFFFFFFE4
 34 en binario 100010 en hexa 22
 20 en binario 10100 en hexa 14
-0 en binario  en hexa 
+0 en binario 0 en hexa 0
 25 en binario 11001 en hexa 19
 45 en binario 101101 en hexa 2D
 3 en binario 11 en hexa 3
@@ -445,7 +445,7 @@ Resultados del archivo TC3.txt
 12 en binario 1100 en hexa C
 45 en binario 101101 en hexa 2D
 -50 en binario 1111001110 en hexa FFFFFFFFCE
-0 en binario  en hexa 
+0 en binario 0 en hexa 0
 -6 en binario 1111111010 en hexa FFFFFFFFFA
 -39 en binario 1111011001 en hexa FFFFFFFFD9
 35 en binario 100011 en hexa 23
@@ -472,7 +472,7 @@ Resultados del archivo TC3.txt
 12 en binario 1100 en hexa C
 -39 en binario 1111011001 en hexa FFFFFFFFD9
 -17 en binario 1111101111 en hexa FFFFFFFFEF
-0 en binario  en hexa 
+0 en binario 0 en hexa 0
 27 en binario 11011 en hexa 1B
 28 en binario 11100 en hexa 1C
 45 en binario 101101 en hexa 2D
@@ -497,7 +497,7 @@ Resultados del archivo TC3.txt
 -45 en binario 1111010011 en hexa FFFFFFFFD3
 -4 en binario 1111111100 en hexa FFFFFFFFFC
 15 en binario 1111 en hexa F
-0 en binario  en hexa 
+0 en binario 0 en hexa 0
 -17 en binario 1111101111 en hexa FFFFFFFFEF
 -35 en binario 1111011101 en hexa FFFFFFFFDD
 43 en binario 101011 en hexa 2B
@@ -575,7 +575,7 @@ Resultados del archivo TC3.txt
 31 en binario 11111 en hexa 1F
 -47 en binario 1111010001 en hexa FFFFFFFFD1
 -43 en binario 1111010101 en hexa FFFFFFFFD5
-0 en binario  en hexa 
+0 en binario 0 en hexa 0
 27 en binario 11011 en hexa 1B
 30 en binario 11110 en hexa 1E
 12 en binario 1100 en hexa C
@@ -607,7 +607,7 @@ Resultados del archivo TC3.txt
 16 en binario 10000 en hexa 10
 17 en binario 10001 en hexa 11
 4 en binario 100 en hexa 4
-Tiempo de ejecucion en segundos: 0.02296757698059082
+Tiempo de ejecucion en segundos: 0.03506112098693848
 
 Resultados del archivo TC4.txt
 -39 en binario 1111011001 en hexa FFFFFFFFD9
@@ -617,7 +617,7 @@ Resultados del archivo TC4.txt
 17 en binario 10001 en hexa 11
 49 en binario 110001 en hexa 31
 5 en binario 101 en hexa 5
-0 en binario  en hexa 
+0 en binario 0 en hexa 0
 33 en binario 100001 en hexa 21
 12 en binario 1100 en hexa C
 -6 en binario 1111111010 en hexa FFFFFFFFFA
@@ -631,7 +631,7 @@ Resultados del archivo TC4.txt
 -16 en binario 1111110000 en hexa FFFFFFFFF0
 34 en binario 100010 en hexa 22
 20 en binario 10100 en hexa 14
-0 en binario  en hexa 
+0 en binario 0 en hexa 0
 25 en binario 11001 en hexa 19
 45 en binario 101101 en hexa 2D
 3 en binario 11 en hexa 3
@@ -646,6 +646,6 @@ Resultados del archivo TC4.txt
 12 en binario 1100 en hexa C
 45 en binario 101101 en hexa 2D
 -50 en binario 1111001110 en hexa FFFFFFFFCE
-0 en binario  en hexa 
+0 en binario 0 en hexa 0
 -6 en binario 1111111010 en hexa FFFFFFFFFA
-Tiempo de ejecucion en segundos: 0.016000747680664062
+Tiempo de ejecucion en segundos: 0.006014108657836914
